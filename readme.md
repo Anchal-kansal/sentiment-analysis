@@ -1,5 +1,5 @@
 # Text Classification with Textblob
-To run, python3 sentiment.py
+To run, python sentiment.py
 
 # Text Classification with Support Vector Machine
 To run SVM, python svm.py
