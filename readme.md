@@ -1,4 +1,10 @@
-# Text Classification with Keras and TensorFlow
+# Text Classification with Textblob
+To run, python3 sentiment.py
+
+# Text Classification with Support Vector Machine
+To run SVM, python svm.py
+
+# Text Classification with Keras and TensorFlow(Neural Net)
 
 Data can be downloaded [here](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/). Many thanks to ThinkNook for putting such a great resource out there.
 
